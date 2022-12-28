@@ -1,12 +1,11 @@
 {
-    "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true,
-    "python.formatting.provider": "black",
-    "python.linting.flake8Path": "pflake8",
-    "activitusbar.alignment": "Right",
-    "workbench.sideBar.location": "right",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "workbench.colorTheme": "Monokai Pro (Filter Machine)",
+    "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
+    "explorer.confirmDragAndDrop": false,
+    "window.zoomLevel": -1,
     "editor.rulers": [
         80
     ],
-    "editor.minimap.enabled": false
+    "files.insertFinalNewline": true
 }
